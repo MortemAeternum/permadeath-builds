@@ -1,0 +1,235 @@
+[Overview]
+
+Name: Bear Trapper
+Race: Dwarf
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Druid
+Class: Rogue
+Class: Fighter
+
+Level: 1	Rogue
+Level: 2	Druid
+Level: 3	Druid
+Level: 4	Druid
+Level: 5	Druid
+Level: 6	Druid
+Level: 7	Druid
+Level: 8	Druid
+Level: 9	Druid
+Level: 10	Druid
+Level: 11	Druid
+Level: 12	Fighter
+Level: 13	Druid
+Level: 14	Druid
+Level: 15	Druid
+Level: 16	Druid
+Level: 17	Druid
+Level: 18	Druid
+Level: 19	Druid
+Level: 20	Druid
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:   5     6     6     6      
+DEX:   3     4     4     4      
+CON:   6     6     6     6      
+INT:   8    10    10    10      
+WIS:   6     6     6     6      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Constitution
+Levelup: 4	Constitution
+Levelup: 8	Constitution
+Levelup: 12	Constitution
+Levelup: 16	Constitution
+Levelup: 20	Constitution
+Levelup: 24	Constitution
+Levelup: 28	Constitution
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4                                                                                 
+Bluff  :                                                                                    
+Concent:  4                                                                                 
+Diplo  :                                                                                    
+Disable:  4   2   2   2   2   2   2   2   2   2   2   1   3   2   2   2   2   2   2   2     
+Haggle :                                                                                    
+Heal   :  4   2   2   1   1   1   1   1   1   1   1       1   2   1   1   1   1   1   1     
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :  4                                                                                 
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:  4           1   1   1   1   1   1   1   1               1   1   1   1   1   1     
+Perform:                                                                                    
+Repair :                                                                                    
+Search :  4   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Spellcr:                                                                                    
+Spot   :  4   1   1   1   1   1   1   1   1   1   1   2   1   1   1   1   1   1   1   1     
+Swim   :  4                                                                                 
+Tumble :  4                                                                                 
+UMD    :  4                                                                                 
+
+
+[Feats]
+
+Standard: Heroic 1	Power Attack
+Standard: Heroic 3	Quicken Spell
+Standard: Heroic 6	Natural Fighting
+Standard: Heroic 9	Natural Fighting
+Standard: Heroic 12	Natural Fighting
+Standard: Heroic 15	Empower Healing Spell
+Standard: Heroic 18	Weapon Focus: Slashing
+
+Class: Druid 2	Wild Shape 1: Bear
+Class: Druid 5	Wild Shape 1: Wolf
+Class: Druid 8	Wild Shape 2: Dire Bear
+Class: Druid 11	Wild Shape 2: Winter Wolf
+Class: Druid 13	Wild Shape 3: Fire Elemental
+Class: Druid 17	Wild Shape 3: Water Elemental
+
+Class: Fighter 1	Improved Critical: Slashing
+
+
+[Spells]
+
+Spell: Druid 1	Summon Nature's Ally I
+Spell: Druid 1	Lesser Vigor
+Spell: Druid 1	Ram's Might
+Spell: Druid 1	Magic Fang
+Spell: Druid 1	Maul
+Spell: Druid 1	Longstrider
+
+Spell: Druid 2	Summon Nature's Ally II
+Spell: Druid 2	Barkskin
+Spell: Druid 2	Cure Light Wounds
+Spell: Druid 2	Resist Energy
+Spell: Druid 2	Lesser Restoration
+Spell: Druid 2	Align Fang
+
+Spell: Druid 3	Summon Nature's Ally III
+Spell: Druid 3	Cure Moderate Wounds
+Spell: Druid 3	Protection from Energy
+Spell: Druid 3	Vigor
+Spell: Druid 3	Remove Disease
+Spell: Druid 3	Shred
+
+Spell: Druid 4	Summon Nature's Ally IV
+Spell: Druid 4	Cure Serious Wounds
+Spell: Druid 4	Freedom of Movement
+Spell: Druid 4	Rising Fury
+Spell: Druid 4	Mass Lesser Vigor
+Spell: Druid 4	Mass Longstrider
+
+Spell: Druid 5	Summon Nature's Ally V
+Spell: Druid 5	Reincarnate
+Spell: Druid 5	Death Ward
+Spell: Druid 5	Stoneskin
+Spell: Druid 5	Cure Critical Wounds
+Spell: Druid 5	Animal Growth
+
+Spell: Druid 6	Summon Nature's Ally VI
+Spell: Druid 6	Fire Shield
+Spell: Druid 6	Mass Vigor
+Spell: Druid 6	Tremor
+Spell: Druid 6	Tenacious Pack
+Spell: Druid 6	Greater Dispel Magic
+
+Spell: Druid 7	Summon Nature's Ally VII
+Spell: Druid 7	Regenerate
+Spell: Druid 7	Relentless Onslaught
+Spell: Druid 7	Mass Greater Vigor
+Spell: Druid 7	True Seeing
+
+Spell: Druid 8	Summon Nature's Ally VIII
+Spell: Druid 8	Unstoppable
+Spell: Druid 8	Heal
+Spell: Druid 8	Earthquake
+Spell: Druid 8	Finger of Death
+
+Spell: Druid 9	Summon Nature's Ally IX
+Spell: Druid 9	Mass Regenerate
+Spell: Druid 9	Storm of Vengeance
+Spell: Druid 9	Anger of the Noonday Sun
+
+
+[Enhancements]
+
+Tier5: Nature's Protector
+
+Tree: Dwarf
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Dwarven Toughness
+Ability: Tier 0: Dwarven Constitution
+Ability: Tier 0: Dwarven Toughness II
+Ability: Tier 1: Dwarven Armor Mastery (Rank 2)
+Ability: Tier 2: Child of the Mountain (Rank 1)
+
+Tree: Nature's Protector
+Type: Class
+Source: Druid
+ClassLevels: 18
+Ability: Tier 0: Nature's Protector
+Ability: Tier 0: Nature's Defense
+Ability: Tier 0: Magical Beast
+Ability: Tier 0: Big Claws
+Ability: Tier 0: Big Bear
+Ability: Tier 1: Rage of the Beast (Rank 2)
+Ability: Tier 1: Improved Natural Defense: Enchanted Defense (Rank 3)
+Ability: Tier 1: Fey's Blessing (Rank 3)
+Ability: Tier 2: Primal Beast (Rank 2)
+Ability: Tier 2: Improved Natural Defense: Grizzled Defense (Rank 3)
+Ability: Tier 3: Enduring Beast (Rank 2)
+Ability: Tier 3: Ursa's Protector: Ursa's Heart (Rank 3)
+Ability: Tier 3: Stat: Strength
+Ability: Tier 4: Undying Beast
+Ability: Tier 4: Beast Awakened
+Ability: Tier 4: Ursa's Protector: Ursa's Will (Rank 3)
+Ability: Tier 5: Beast Unleashed
+Ability: Tier 5: Bear Charge
+Ability: Tier 5: Lightning Strikes the Mountain
+Ability: Tier 5: Ursa's Protector: Ursa's Spirit (Rank 3)
+Ability: Tier 5: Force of Nature (Rank 3)
+
+Tree: Nature's Warrior
+Type: Class
+Source: Druid
+ClassLevels: 18
+Ability: Tier 0: Natural Adept
+Ability: Tier 0: Nature's Senses
+Ability: Tier 0: Nature's Bounty
+Ability: Tier 0: A True Hunter
+Ability: Tier 1: Extra Wild Empathy (Rank 1)
+Ability: Tier 1: Take Down (Rank 3)
+Ability: Tier 1: Beastial Nature (Rank 2)
+Ability: Tier 2: Flight (Rank 3)
+Ability: Tier 2: Double Strike Boost (Rank 3)
+Ability: Tier 3: Fight (Rank 3)
+Ability: Tier 3: Essence of the Shrike (Rank 2)
+Ability: Tier 4: Fatal Harrier (Rank 3)
+Ability: Tier 4: Four Legs Good
+Ability: Tier 4: Ferocity (Rank 3)
+
+Tree: Stalwart Defender
+Type: Class
+Source: Fighter
+ClassLevels: 1
+Ability: Tier 0: Toughness
+Ability: Tier 1: Stalwart Defensive Mastery (Rank 3)
+

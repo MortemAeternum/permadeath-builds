@@ -1,0 +1,168 @@
+[Overview]
+
+Name: Tempestrapper
+Race: Elf
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Ranger
+Class: Rogue
+Class: Fighter
+
+Level: 1	Rogue
+Level: 2	Ranger
+Level: 3	Ranger
+Level: 4	Ranger
+Level: 5	Ranger
+Level: 6	Ranger
+Level: 7	Ranger
+Level: 8	Ranger
+Level: 9	Fighter
+Level: 10	Ranger
+Level: 11	Ranger
+Level: 12	Ranger
+Level: 13	Ranger
+Level: 14	Ranger
+Level: 15	Ranger
+Level: 16	Ranger
+Level: 17	Ranger
+Level: 18	Ranger
+Level: 19	Ranger
+Level: 20	Ranger
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:                            
+DEX:   8    10    10    10      
+CON:   8    10    10    10      
+INT:  10    10    10    10      
+WIS:   2     2     2     2      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Dexterity
+Levelup: 4	Dexterity
+Levelup: 8	Dexterity
+Levelup: 12	Dexterity
+Levelup: 16	Dexterity
+Levelup: 20	Dexterity
+Levelup: 24	Dexterity
+Levelup: 28	Dexterity
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4                   1   1   1                           1   1   1   1   1         
+Bluff  :                                                                                    
+Concent:  4       2   2   2   1   1   1               2   2   2   1   1   1   1   1   1     
+Diplo  :                                                                                    
+Disable:  4   2   2   2   2   2   2   2   1   3   2   2   2   2   2   2   2   2   2   2     
+Haggle :                                                                                    
+Heal   :  4   3   1   1   1   1   1   1       2   1   1   1   1   1   1   1   1   1   1     
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :  4                                                                           1     
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:  4   2   2   2   2   2   2   2       2   4   2   2   2   2   2   2   2   2   2     
+Perform:                                                                                    
+Repair :                                                                                    
+Search :  4   1   1   1   1   1   1   1   2   1   1   1   1   1   1   1   1   1   1   1     
+Spellcr:                                                                                    
+Spot   :  4   1   1   1   1   1   1   1   2   1   1   1   1   1   1   1   1   1   1   1     
+Swim   :  4                                                                                 
+Tumble :  4                                                                                 
+UMD    :  4                                                                                 
+
+
+[Feats]
+
+Standard: Heroic 1	Dodge
+Standard: Heroic 3	Precision
+Standard: Heroic 6	Mobility
+Standard: Heroic 9	Least Dragonmark: Shadow
+Standard: Heroic 12	Spring Attack
+Standard: Heroic 15	Quicken Spell
+Standard: Heroic 18	Empower Healing Spell
+
+Class: Ranger 1	Favored Enemy: Undead
+Class: Ranger 5	Favored Enemy: Human
+Class: Ranger 10	Favored Enemy: Giant
+Class: Ranger 15	Favored Enemy: Evil Outsider
+
+Class: Fighter 1	Improved Critical: Slashing
+
+
+[Enhancements]
+
+Tier5: Tempest
+
+Tree: Elf
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Elven Accuracy
+Ability: Tier 0: Elven Dexterity
+Ability: Tier 1: Phiarlan Dragonmark Focus (Rank 3)
+Ability: Tier 2: Lesser Dragonmark of Shadow
+Ability: Tier 2: Enchantment Lore (Rank 2)
+Ability: Tier 3: Greater Dragonmark of Shadow
+
+Tree: Tempest
+Type: Class
+Source: Ranger
+ClassLevels: 18
+Ability: Tier 0: Shield of Whirling Steel
+Ability: Tier 0: Tempest
+Ability: Tier 0: Graceful Death
+Ability: Tier 0: Deflect Arrows
+Ability: Tier 0: Whirlwind
+Ability: Tier 1: Improved Reaction (Rank 3)
+Ability: Tier 1: Improved Defense (Rank 3)
+Ability: Tier 1: Whirling Blades
+Ability: Tier 2: Improved Parry (Rank 3)
+Ability: Tier 2: Improved Dodge (Rank 3)
+Ability: Tier 2: Whirling Blades
+Ability: Tier 2: Action Boost: Haste Boost (Rank 3)
+Ability: Tier 3: Storm Dancer
+Ability: Tier 3: Whirling Blades
+Ability: Tier 4: Storm Tempest
+Ability: Tier 4: Elaborate Parry (Rank 3)
+Ability: Tier 4: The Growing Storm (Rank 3)
+Ability: Tier 4: Whirling Blades
+Ability: Tier 5: Dual Perfection
+Ability: Tier 5: Evasive Dance (Rank 3)
+Ability: Tier 5: Cuts: A Thousand Cuts (Rank 3)
+Ability: Tier 5: Whirling Blades
+Ability: Tier 5: Dance of Death (Rank 3)
+
+Tree: Deepwood Stalker
+Type: Class
+Source: Ranger
+ClassLevels: 18
+Ability: Tier 0: Far Shot
+Ability: Tier 0: Sneak Attack
+Ability: Tier 0: Called Shot: Exposing Strike
+Ability: Tier 1: Increased Empathy (Rank 3)
+Ability: Tier 1: Versatile Empathy (Rank 1)
+Ability: Tier 2: Survivalist
+Ability: Tier 2: Action Boost: Skill Boost (Rank 3)
+Ability: Tier 3: Survivalist
+
+Tree: Stalwart Defender
+Type: Class
+Source: Fighter
+ClassLevels: 1
+Ability: Tier 0: Toughness
+Ability: Tier 1: Stalwart Defensive Mastery (Rank 2)
+

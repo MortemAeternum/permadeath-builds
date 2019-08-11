@@ -1,0 +1,187 @@
+[Overview]
+
+Name: Pew Pew Pew Arti
+Race: Warforged
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Artificer
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:                            
+DEX:   4     6     6     6      
+CON:   6     6     6     6      
+INT:  16    16    16    16      
+WIS:   2     4     4     4      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Intelligence
+Levelup: 4	Intelligence
+Levelup: 8	Intelligence
+Levelup: 12	Intelligence
+Levelup: 16	Intelligence
+Levelup: 20	Intelligence
+Levelup: 24	Intelligence
+Levelup: 28	Intelligence
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1         
+Bluff  :                                                                                    
+Concent:  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Diplo  :                                                                                    
+Disable:  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Haggle :                                                                              1     
+Heal   :                              1   1   1   1   1   1   1   1   2   2   2   2   2     
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :                                                                                    
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Perform:                                                                                    
+Repair :  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Search :  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Spellcr:                                                                                    
+Spot   :  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Swim   :                                                                                    
+Tumble :                                                                                    
+UMD    :  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+
+
+[Feats]
+
+Standard: Heroic 1	Point Blank Shot
+Standard: Heroic 3	Adamantine Body
+Standard: Heroic 6	Precise Shot
+Standard: Heroic 9	Precision
+Standard: Heroic 12	Augment Summoning
+Standard: Heroic 15	Insightful Reflexes
+Standard: Heroic 18	Dodge
+
+Class: Artificer 4	Rapid Shot
+Class: Artificer 8	Quicken Spell
+Class: Artificer 12	Improved Critical: Ranged
+Class: Artificer 16	Empower Spell
+Class: Artificer 20	Weapon Focus: Ranged
+
+
+[Spells]
+
+Spell: Artificer 1	Repair Light Damage
+Spell: Artificer 1	Shield of Faith
+Spell: Artificer 1	Ablative Armor
+Spell: Artificer 1	Resist Energy
+Spell: Artificer 1	Enchant Armor
+Spell: Artificer 1	Conjure Bolts
+
+Spell: Artificer 2	Repair Moderate Damage
+Spell: Artificer 2	Elemental Weapons
+Spell: Artificer 2	Protection from Energy
+Spell: Artificer 2	Toughen Construct
+Spell: Artificer 2	Reinforce Construct
+Spell: Artificer 2	Byeshk Weapons
+
+Spell: Artificer 3	Repair Serious Damage
+Spell: Artificer 3	Insightful Damage
+Spell: Artificer 3	Flame Turret
+Spell: Artificer 3	Stoneskin
+Spell: Artificer 3	Admixture: Remove Disease
+Spell: Artificer 3	Mass Repair Light Damage
+
+Spell: Artificer 4	Repair Critical Damage
+Spell: Artificer 4	Protection from Elements
+Spell: Artificer 4	Armor of Speed
+Spell: Artificer 4	Admixture: Remove Poison
+Spell: Artificer 4	Mass Repair Moderate Damage
+Spell: Artificer 4	  Cold Iron Weapons*
+
+Spell: Artificer 5	  Radiant Forcefield*
+Spell: Artificer 5	Admixture: Remove Curse
+Spell: Artificer 5	Align Weapons
+Spell: Artificer 5	Mass Repair Serious Damage
+
+Spell: Artificer 6	Deadly Weapons
+Spell: Artificer 6	Mass Protection from Elements
+Spell: Artificer 6	Reconstruct
+Spell: Artificer 6	Mass Repair Critical Damage
+
+
+[Enhancements]
+
+Tier5: Renegade Mastermaker
+
+Tree: Warforged
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Improved Fortification
+Ability: Tier 1: Repair Systems: Mechanist (Rank 3)
+Ability: Tier 1: Construct Toughness
+
+Tree: Renegade Mastermaker
+Type: Class
+Source: Artificer
+ClassLevels: 20
+Ability: Tier 0: Renegade Defender
+Ability: Tier 0: Alchemical Shield
+Ability: Tier 0: Cure Serious Admixture
+Ability: Tier 0: Constructive Conduit
+Ability: Tier 0: Radiant Forcefield
+Ability: Tier 1: Easily Fixed
+Ability: Tier 1: Supporting Construction (Rank 3)
+Ability: Tier 1: Toughness (Rank 3)
+Ability: Tier 2: Armor Mastery (Rank 3)
+Ability: Tier 3: Conjure Component
+Ability: Tier 3: Reinforced Armor (Rank 3)
+Ability: Tier 3: Shielding Construct
+Ability: Tier 3: Stat: Intelligence
+Ability: Tier 4: Reconstruct (Rank 3)
+Ability: Tier 4: Embed Component (Rank 3)
+Ability: Tier 4: Warding Construct
+Ability: Tier 5: Forcefield: Automatic
+Ability: Tier 5: Paragon Body
+Ability: Tier 5: Mastermaker
+
+Tree: Battle Engineer
+Type: Class
+Source: Artificer
+ClassLevels: 20
+Ability: Tier 0: Battle Engineer
+Ability: Tier 0: Infused Weapons
+Ability: Tier 0: Infused Armor
+Ability: Tier 0: Infused Weapons II
+Ability: Tier 1: Weapon Training: Crossbow Training
+Ability: Tier 1: Field Engineer (Rank 3)
+Ability: Tier 1: Field Scrapper (Rank 3)
+Ability: Tier 2: Weapon Training: Crossbow Training
+Ability: Tier 2: Caustic Strike: Caustic Shot (Rank 1)
+Ability: Tier 2: Action Boost: Power (Rank 3)
+Ability: Tier 3: Weapon Training: Crossbow Training
+Ability: Tier 3: Shatter Defenses (Rank 1)
+Ability: Tier 4: Weapon Training: Crossbow Training
+Ability: Tier 4: Battle Mastery: Endless Fusilade
+Ability: Tier 4: Agility Engine (Rank 3)
+
+Tree: Harper Agent
+Type: Global
+ClassLevels: 20
+Ability: Tier 0: Agent of Good I
+Ability: Tier 1: Harper Enchantment
+Ability: Tier 1: Strategic Combat
+Ability: Tier 2: Magical Endurance (Rank 3)
+Ability: Tier 2: Know the Angles (Rank 3)
+

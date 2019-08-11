@@ -1,0 +1,174 @@
+[Overview]
+
+Name: Trapper Monk
+Race: Aasimar
+Alignment: Lawful Good
+MaxLevels: 20
+
+Class: Monk
+Class: Rogue
+
+Level: 1	Rogue
+Level: 2	Monk
+Level: 3	Monk
+Level: 4	Monk
+Level: 5	Monk
+Level: 6	Monk
+Level: 7	Monk
+Level: 8	Monk
+Level: 9	Monk
+Level: 10	Monk
+Level: 11	Monk
+Level: 12	Monk
+Level: 13	Monk
+Level: 14	Monk
+Level: 15	Monk
+Level: 16	Monk
+Level: 17	Monk
+Level: 18	Monk
+Level: 19	Monk
+Level: 20	Monk
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:                            
+DEX:  10    10    10    10      
+CON:   6     6     6     6      
+INT:   4    10    10    10      
+WIS:   6     6     6     6      
+CHA:                            
+;    ----  ----  ----  ----
+;     26    32    32    32   
+
+Levelup: 0	
+Levelup: 4	Wisdom
+Levelup: 8	Dexterity
+Levelup: 12	Wisdom
+Levelup: 16	Wisdom
+Levelup: 20	Wisdom
+Levelup: 24	Wisdom
+Levelup: 28	Wisdom
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4                                                                           1     
+Bluff  :                                                                                    
+Concent:  4   2   2   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Diplo  :                                                                                    
+Disable:  4   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Haggle :                                                                                    
+Heal   :  4                                                                                 
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :  4                                                                                 
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:  4           1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1         
+Perform:                                                                                    
+Repair :                                                                                    
+Search :  4   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Spellcr:                                                                                    
+Spot   :  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Swim   :  4                                                                                 
+Tumble :  4                                                                                 
+UMD    :  4                                                                                 
+
+
+[Feats]
+
+Standard: Heroic 1	Two Weapon Fighting
+Standard: Heroic 3	Mobility
+Standard: Heroic 6	Combat Expertise
+Standard: Heroic 9	Improved Two Weapon Fighting
+Standard: Heroic 12	Improved Critical: Bludgeoning
+Standard: Heroic 15	Two Weapon Defense
+Standard: Heroic 18	Greater Two Weapon Fighting
+
+Race: Aasimar 1	Bond of the Protector
+
+Class: Monk 1	Dodge
+Class: Monk 2	Stunning Fist
+Class: Monk 3	Path of Harmonious Balance
+Class: Monk 6	Spring Attack
+
+
+[Enhancements]
+
+Tier5: Shintao
+
+Tree: Aasimar
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Stronger Bonds
+Ability: Tier 0: Stat: Wisdom
+Ability: Tier 0: Stronger Bonds II
+Ability: Tier 0: Stat II: Wisdom
+Ability: Tier 0: Stronger Bonds III
+Ability: Tier 1: True Resilience (Rank 1)
+Ability: Tier 1: Improved Recovery
+Ability: Tier 3: Blessings (Rank 3)
+Ability: Tier 3: Improved Recovery
+Ability: Tier 4: Celestial Tutelage: Quick Draw
+Ability: Tier 4: Divine Form
+Ability: Tier 4: Improved Recovery
+
+Tree: Shintao
+Type: Class
+Source: Monk
+ClassLevels: 19
+Ability: Tier 0: Bastion of Purity
+Ability: Tier 0: Protection from Tainted Creatures
+Ability: Tier 0: Iron Hand
+Ability: Tier 0: Argent Fist
+Ability: Tier 0: Touch the Void Dragon
+Ability: Tier 1: Elemental Curatives: Difficulty at the Beginning
+Ability: Tier 1: Reed in the Wind (Rank 3)
+Ability: Tier 1: Deft Strikes (Rank 3)
+Ability: Tier 2: Elemental Curatives: Restoring the Balance
+Ability: Tier 2: Smite Tainted Creature
+Ability: Tier 2: Iron Skin (Rank 3)
+Ability: Tier 2: Conditioning (Rank 3)
+Ability: Tier 3: Elemental Curatives: The Receptive Earth
+Ability: Tier 3: Jade Strike
+Ability: Tier 3: Stat: Wisdom
+Ability: Tier 4: Elemental Curatives: Lifting the Veil
+Ability: Tier 4: Tomb of Jade
+Ability: Tier 4: Instinctive Defense (Rank 2)
+Ability: Tier 5: Empty Hand Mastery
+Ability: Tier 5: Kukan-Do
+Ability: Tier 5: Violence Begets Violence
+Ability: Tier 5: Meditation of War
+Ability: Tier 5: Rise of the Phoenix
+
+Tree: Ninja Spy
+Type: Class
+Source: Monk
+ClassLevels: 19
+Ability: Tier 0: Basic Ninja Training
+Ability: Tier 0: Advanced Ninja Training
+Ability: Tier 0: Shadow Veil
+Ability: Tier 1: Sneak Attack Training
+Ability: Tier 1: Acrobatic (Rank 3)
+Ability: Tier 2: Agility (Rank 3)
+
+Tree: Henshin Mystic
+Type: Class
+Source: Monk
+ClassLevels: 19
+Ability: Tier 0: Riddle of Fire
+Ability: Tier 0: Ki Bolt
+Ability: Tier 1: Mystic Training (Rank 2)
+Ability: Tier 1: Way of the: Patient Tortoise
+Ability: Tier 2: Contemplation (Rank 3)
+

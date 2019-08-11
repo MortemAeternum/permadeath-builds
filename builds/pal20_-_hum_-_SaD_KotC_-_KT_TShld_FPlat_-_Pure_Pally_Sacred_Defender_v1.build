@@ -1,0 +1,158 @@
+[Overview]
+
+Name: Pure Pally Sacred Defender
+Race: Human
+Alignment: Lawful Good
+MaxLevels: 20
+
+Class: Paladin
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:  10    10    10    10      
+DEX:   3     4     4     4      
+CON:   5     6     6     6      
+INT:                            
+WIS:         2     2     2      
+CHA:  10    10    10    10      
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Charisma
+Levelup: 4	Charisma
+Levelup: 8	Charisma
+Levelup: 12	Charisma
+Levelup: 16	Charisma
+Levelup: 20	Charisma
+Levelup: 24	Charisma
+Levelup: 28	Charisma
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:                                                                                    
+Bluff  :                                                                                    
+Concent:  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Diplo  :                                                                                    
+Disable:                                                                                    
+Haggle :                                                                                    
+Heal   :  4   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :                                                                                    
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:                                                                                    
+Perform:                                                                                    
+Repair :                                                                                    
+Search :                                                                                    
+Spellcr:                                                                                    
+Spot   :                                                                                    
+Swim   :                                                                                    
+Tumble :                                                                                    
+UMD    :                                                                                    
+
+
+[Feats]
+
+Standard: Heroic 1	Shield Mastery
+Standard: Heroic 3	Tower Shield Proficiency
+Standard: Heroic 6	Knight's Training
+Standard: Heroic 9	Improved Shield Mastery
+Standard: Heroic 12	Improved Critical: Slashing
+Standard: Heroic 15	Quicken Spell
+Standard: Heroic 18	Improved Shield Bash
+
+Race: Human 1	Power Attack
+
+Deity: Deity 1	Follower of: Sovereign Host
+Deity: Deity 6	Deity Ability: Unyielding Sovereignty
+
+
+[Spells]
+
+Spell: Paladin 1	Cure Light Wounds
+Spell: Paladin 1	Lesser Restoration
+Spell: Paladin 1	Divine Favor
+Spell: Paladin 1	Lionheart
+
+Spell: Paladin 2	Angelskin
+Spell: Paladin 2	Resist Energy
+Spell: Paladin 2	Remove Paralysis
+Spell: Paladin 2	Bull's Strength
+
+Spell: Paladin 3	Cure Moderate Wounds
+Spell: Paladin 3	Remove Curse
+Spell: Paladin 3	Remove Blindness
+Spell: Paladin 3	Magic Circle Against Evil
+
+Spell: Paladin 4	Holy Sword
+Spell: Paladin 4	Zeal
+Spell: Paladin 4	Cure Serious Wounds
+Spell: Paladin 4	Death Ward
+
+
+[Enhancements]
+
+Tier5: Sacred Defender
+
+Tree: Human
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Human Versatility: Defense Boost
+Ability: Tier 1: Improved Recovery
+
+Tree: Sacred Defender
+Type: Class
+Source: Paladin
+ClassLevels: 20
+Ability: Tier 0: Holy Bastion
+Ability: Tier 0: Sacred Defense
+Ability: Tier 0: Divine Righteousness
+Ability: Tier 0: Redemption
+Ability: Tier 0: Glorious Stand
+Ability: Tier 0: Eternal Defender
+Ability: Tier 1: Extra Lay On Hands (Rank 3)
+Ability: Tier 1: Improved Sacred Defense: Durable Defense (Rank 3)
+Ability: Tier 1: Sacred Armor Mastery (Rank 3)
+Ability: Tier 2: Bulwark Aura (Rank 3)
+Ability: Tier 2: Improved Sacred Defense: Resilient Defense (Rank 3)
+Ability: Tier 2: Sacred Shield Mastery (Rank 3)
+Ability: Tier 3: Resistance Aura (Rank 3)
+Ability: Tier 3: Greater Sacred Defense: Tenacious Defense (Rank 3)
+Ability: Tier 4: Reinforced Defense: Reinforced Armor (Rank 3)
+Ability: Tier 4: Greater Sacred Defense: Hardy Defense (Rank 3)
+Ability: Tier 5: Reinforced Defense: Reinforced Shield (Rank 3)
+Ability: Tier 5: Harbored by Light (Rank 3)
+Ability: Tier 5: Reprisal (Rank 1)
+Ability: Tier 5: Greater Sacred Defense: Strong Defense (Rank 3)
+
+Tree: Knight of the Chalice
+Type: Class
+Source: Paladin
+ClassLevels: 20
+Ability: Tier 0: Slayer of Evil
+Ability: Tier 0: Courage of Heaven
+Ability: Tier 0: Slayer of Evil II
+Ability: Tier 0: Improved Courage of Heaven
+Ability: Tier 0: Slayer of Evil III
+Ability: Tier 1: Extra Turning (Rank 3)
+Ability: Tier 1: Extra Remove Disease (Rank 3)
+Ability: Tier 1: Extra Smite (Rank 2)
+Ability: Tier 2: Divine Might (Rank 3)
+Ability: Tier 2: Exalted Cleave (Rank 3)
+Ability: Tier 3: Improved Restoration (Rank 3)
+Ability: Tier 3: Vigor of Life
+Ability: Tier 4: Vigor of Life
+Ability: Tier 4: Empowered Smite
+

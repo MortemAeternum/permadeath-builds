@@ -1,0 +1,161 @@
+[Overview]
+
+Name: Qstaff Barbaritrapper
+Race: Dwarf
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Barbarian
+Class: Rogue
+
+Level: 1	Rogue
+Level: 2	Barbarian
+Level: 3	Rogue
+Level: 4	Barbarian
+Level: 5	Barbarian
+Level: 6	Barbarian
+Level: 7	Barbarian
+Level: 8	Barbarian
+Level: 9	Barbarian
+Level: 10	Barbarian
+Level: 11	Barbarian
+Level: 12	Barbarian
+Level: 13	Barbarian
+Level: 14	Barbarian
+Level: 15	Barbarian
+Level: 16	Barbarian
+Level: 17	Barbarian
+Level: 18	Barbarian
+Level: 19	Barbarian
+Level: 20	Barbarian
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:  10    10    10    10     1
+DEX:   2     4     4     4      
+CON:   4     6     6     6      
+INT:  10    10    10    10      
+WIS:   2     2     2     2      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Constitution
+Levelup: 4	Constitution
+Levelup: 8	Constitution
+Levelup: 12	Constitution
+Levelup: 16	Constitution
+Levelup: 20	Constitution
+Levelup: 24	Constitution
+Levelup: 28	Constitution
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4       2                                                                         
+Bluff  :                                                                                    
+Concent:                                                                                    
+Diplo  :                                                                                    
+Disable:  4   2   1   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Haggle :  4       1                                                                         
+Heal   :                                                                                    
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :  4   1   1                                                                   1     
+Listen :                                                                                    
+Move Si:  4                                                                                 
+Open Lo:  4       2   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1         
+Perform:                                                                                    
+Repair :                                                                                    
+Search :  4   2   1   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Spellcr:                                                                                    
+Spot   :  4   2   1   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Swim   :  4                                                                                 
+Tumble :  4                                                                                 
+UMD    :  4       2                                                                         
+
+
+[Feats]
+
+Standard: Heroic 1	Power Attack
+Standard: Heroic 3	Cleave
+Standard: Heroic 6	Great Cleave
+Standard: Heroic 9	Improved Critical: Bludgeoning
+Standard: Heroic 12	Two Handed Fighting
+Standard: Heroic 15	Improved Two Handed Fighting
+Standard: Heroic 18	Greater Two Handed Fighting
+
+
+[Enhancements]
+
+Tier5: Occult Slayer
+
+Tree: Dwarf
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Dwarven Toughness
+Ability: Tier 0: Dwarven Constitution
+Ability: Tier 1: Dwarven Armor Mastery (Rank 3)
+Ability: Tier 2: Child of the Mountain (Rank 1)
+
+Tree: Occult Slayer
+Type: Class
+Source: Barbarian
+ClassLevels: 18
+Ability: Tier 0: Weapon Bond
+Ability: Tier 0: Resistance
+Ability: Tier 0: Elemental Defense
+Ability: Tier 0: Blank Thoughts
+Ability: Tier 0: Force Ward
+Ability: Tier 1: Extend Rage (Rank 3)
+Ability: Tier 1: Ear Smash (Rank 3)
+Ability: Tier 1: Parrying Bond (Rank 3)
+Ability: Tier 1: Uncanny Dodger (Rank 3)
+Ability: Tier 2: Guarding Bond (Rank 3)
+Ability: Tier 3: Bond of Retribution
+Ability: Tier 3: Arcane Encumberance (Rank 3)
+Ability: Tier 4: Vicious Strike (Rank 3)
+Ability: Tier 4: Driving Force (Rank 3)
+Ability: Tier 5: Bond of Destruction
+Ability: Tier 5: Vampiric Bond (Rank 3)
+Ability: Tier 5: Occult Metalline
+Ability: Tier 5: One Spirit (Rank 3)
+
+Tree: Thief-Acrobat
+Type: Class
+Source: Rogue
+ClassLevels: 2
+Ability: Tier 0: Staff Control
+Ability: Tier 1: Acrobat Staff Training
+Ability: Tier 1: Thief Acrobatics (Rank 3)
+Ability: Tier 2: Quick Strike (Rank 3)
+Ability: Tier 2: Haste Boost (Rank 3)
+
+Tree: Frenzied Berserker
+Type: Class
+Source: Barbarian
+ClassLevels: 18
+Ability: Tier 0: Die Hard
+Ability: Tier 0: Frenzied Toughness
+Ability: Tier 1: Extra Rage (Rank 3)
+Ability: Tier 1: Die Harder (Rank 3)
+
+Tree: Ravager
+Type: Class
+Source: Barbarian
+ClassLevels: 18
+Ability: Tier 0: Furious Rage
+Ability: Tier 0: Pain Touch
+Ability: Tier 1: Barbarian Power Attack (Rank 3)
+Ability: Tier 1: Hardy Rage (Rank 3)
+

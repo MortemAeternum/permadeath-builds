@@ -1,0 +1,176 @@
+[Overview]
+
+Name: The Frustrated Ecclesiastic
+Race: Human
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Cleric
+Class: Barbarian
+
+Level: 1	Cleric
+Level: 2	Cleric
+Level: 3	Cleric
+Level: 4	Barbarian
+Level: 5	Cleric
+Level: 6	Cleric
+Level: 7	Barbarian
+Level: 8	Barbarian
+Level: 9	Cleric
+Level: 10	Cleric
+Level: 11	Barbarian
+Level: 12	Barbarian
+Level: 13	Cleric
+Level: 14	Cleric
+Level: 15	Cleric
+Level: 16	Cleric
+Level: 17	Cleric
+Level: 18	Cleric
+Level: 19	Cleric
+Level: 20	Cleric
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:  10    10    10    10      
+DEX:   2     2     2     2      
+CON:  10    10    10    10      
+INT:                            
+WIS:   6    10    10    10      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Strength
+Levelup: 4	Strength
+Levelup: 8	Strength
+Levelup: 12	Strength
+Levelup: 16	Strength
+Levelup: 20	Strength
+Levelup: 24	Strength
+Levelup: 28	Strength
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:                                                                                    
+Bluff  :                                                                                    
+Concent:  4   1   1   2   1   1   2   2   1   1   2   2   1   1   1   1   1   1   1   1     
+Diplo  :                                                                                    
+Disable:                                                                                    
+Haggle :                                                                                    
+Heal   :  4   1   1   2   1   1   2   2   1   1   2   2   1   1   1   1   1   1   1   1     
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :                                                                                    
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:                                                                                    
+Perform:                                                                                    
+Repair :                                                                                    
+Search :                                                                                    
+Spellcr:                                                                                    
+Spot   :                                                                                    
+Swim   :                                                                                    
+Tumble :                                                                                    
+UMD    :                                                                                    
+
+
+[Feats]
+
+Standard: Heroic 1	Power Attack
+Standard: Heroic 3	Quicken Spell
+Standard: Heroic 6	Great Cleave
+Standard: Heroic 9	Two Handed Fighting
+Standard: Heroic 12	Improved Critical: Slashing
+Standard: Heroic 15	Improved Two Handed Fighting
+Standard: Heroic 18	Greater Two Handed Fighting
+
+Race: Human 1	Cleave
+
+Class: Cleric 2	Domain: Destruction Domain
+
+Deity: Deity 1	Follower of: Sovereign Host
+Deity: Deity 9	Deity Ability: Unyielding Sovereignty
+
+
+[Enhancements]
+
+Tier5: Frenzied Berserker
+
+Tree: Human
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Human Versatility: Damage Boost
+Ability: Tier 0: Human Adaptability: Strength
+Ability: Tier 1: Improved Recovery
+Ability: Tier 1: Don't Count Me Out (Rank 2)
+Ability: Tier 2: Fighting Style: Great Weapon Aptitude (Rank 3)
+Ability: Tier 3: Improved Recovery
+
+Tree: Frenzied Berserker
+Type: Class
+Source: Barbarian
+ClassLevels: 5
+Ability: Tier 0: Die Hard
+Ability: Tier 0: Frenzied Toughness
+Ability: Tier 1: Extra Rage (Rank 3)
+Ability: Tier 1: Cracking Attack (Rank 3)
+Ability: Tier 1: Die Harder (Rank 1)
+Ability: Tier 2: Angry Arms (Rank 3)
+Ability: Tier 2: Body Blow (Rank 3)
+Ability: Tier 2: Blood Tribute (Rank 3)
+Ability: Tier 3: Mad Munitions (Rank 3)
+Ability: Tier 3: Blood Trail (Rank 3)
+Ability: Tier 3: Supreme Cleave (Rank 3)
+Ability: Tier 4: Crazy Strike (Rank 3)
+Ability: Tier 5: Focus Wide
+Ability: Tier 5: Focused Wrath (Rank 2)
+Ability: Tier 5: Lash Out (Rank 3)
+Ability: Tier 5: Healing or Hurt: Accelerated Metabolism
+Ability: Tier 5: Tantrum
+
+Tree: Ravager
+Type: Class
+Source: Barbarian
+ClassLevels: 5
+Ability: Tier 0: Furious Rage
+Ability: Tier 0: Pain Touch
+Ability: Tier 1: Do You Like Pain? (Rank 1)
+Ability: Tier 1: Barbarian Power Attack (Rank 3)
+
+Tree: Occult Slayer
+Type: Class
+Source: Barbarian
+ClassLevels: 5
+Ability: Tier 0: Weapon Bond
+Ability: Tier 0: Resistance
+Ability: Tier 1: Extend Rage (Rank 3)
+Ability: Tier 1: Ear Smash (Rank 2)
+Ability: Tier 1: Parrying Bond (Rank 3)
+Ability: Tier 2: Guarding Bond (Rank 3)
+
+Tree: Warpriest
+Type: Class
+Source: Cleric
+ClassLevels: 15
+Ability: Tier 0: Smite Foe: Melee
+Ability: Tier 0: Resilience of Battle
+Ability: Tier 1: Toughness (Rank 3)
+Ability: Tier 1: Sacred Touch (Rank 1)
+Ability: Tier 2: Wall of Steel (Rank 3)
+
+Tree: Divine Disciple
+Type: Class
+Source: Cleric
+ClassLevels: 15
+

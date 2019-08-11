@@ -1,0 +1,162 @@
+[Overview]
+
+Name: Stalwart Rogue
+Race: Dwarf
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Rogue
+Class: Fighter
+
+Level: 1	Rogue
+Level: 2	Fighter
+Level: 3	Rogue
+Level: 4	Rogue
+Level: 5	Fighter
+Level: 6	Fighter
+Level: 7	Rogue
+Level: 8	Rogue
+Level: 9	Rogue
+Level: 10	Fighter
+Level: 11	Rogue
+Level: 12	Rogue
+Level: 13	Rogue
+Level: 14	Rogue
+Level: 15	Rogue
+Level: 16	Rogue
+Level: 17	Rogue
+Level: 18	Rogue
+Level: 19	Rogue
+Level: 20	Rogue
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:                            
+DEX:   6    10    10    10      
+CON:  10    10    10    10      
+INT:  10    10    10    10      
+WIS:   2     2     2     2      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Dexterity
+Levelup: 4	Dexterity
+Levelup: 8	Dexterity
+Levelup: 12	Dexterity
+Levelup: 16	Dexterity
+Levelup: 20	Dexterity
+Levelup: 24	Dexterity
+Levelup: 28	Dexterity
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4           3                   3           3   3   1   1   1   1   1   1   1     
+Bluff  :                                                                                    
+Concent:                                                                                    
+Diplo  :                                                                                    
+Disable:  4   2   1   1   2   2   1   1   1   2   1   1   1   1   1   1   1   1   1   1     
+Haggle :                                                                                    
+Heal   :                                                                                    
+Hide   :  4       2   1               3   2       1   2   1   1   1   1   1   1   1   1     
+Intim  :                                                                                    
+Jump   :  4           1                                   1   3   3   3   3   3   1   1     
+Listen :                                                                                    
+Move Si:  4       2   1           1   3   1       2   1   1   1   1   1   1   1   1   1     
+Open Lo:  4       2   1           3   1   1       2   1   1   1   1   1   1   1   1   1     
+Perform:                                                                                    
+Repair :                                                                                    
+Search :  4   2   1   1   2   2   1   1   1   2   1   1   1   1   1   1   1   1   1   1     
+Spellcr:                                                                                    
+Spot   :  4       2   1   1   1   2   1   1       2   1   1   1   1   1   1   1   1   1     
+Swim   :  4                                                                                 
+Tumble :  4                                                                       2   2     
+UMD    :  4   1   1   1           3   1   1   1   2   1   1   1   1   1   1   1   1   1     
+
+
+[Feats]
+
+Standard: Heroic 1	Dodge
+Standard: Heroic 3	Mobility
+Standard: Heroic 6	Spring Attack
+Standard: Heroic 9	Sap
+Standard: Heroic 12	Improved Critical: Piercing
+Standard: Heroic 15	Toughness
+Standard: Heroic 18	Weapon Focus: Piercing
+
+Class: Rogue 10	Improved Evasion
+Class: Rogue 13	Defensive Roll
+Class: Rogue 16	Slippery Mind
+
+Class: Fighter 1	Shield Mastery
+Class: Fighter 2	Combat Expertise
+Class: Fighter 4	Improved Shield Mastery
+
+
+[Enhancements]
+
+Tier5: Assassin
+
+Tree: Dwarf
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Dwarven Toughness
+Ability: Tier 0: Dwarven Constitution
+Ability: Tier 0: Dwarven Toughness II
+Ability: Tier 1: Dwarven Armor Mastery (Rank 3)
+Ability: Tier 2: Child of the Mountain (Rank 1)
+
+Tree: Assassin
+Type: Class
+Source: Rogue
+ClassLevels: 16
+Ability: Tier 0: Knife in the Darkness
+Ability: Tier 0: Dagger in the Back
+Ability: Tier 0: Assassin's Trick
+Ability: Tier 0: Nimbleness
+Ability: Tier 1: Poison Strikes: Heartseeker
+Ability: Tier 1: Shiv (Rank 1)
+Ability: Tier 1: Sneak Attack Training
+Ability: Tier 1: Stealthy (Rank 2)
+Ability: Tier 2: Venomed Blades (Rank 3)
+Ability: Tier 2: Sneak Attack Training
+Ability: Tier 2: Damage Boost (Rank 2)
+Ability: Tier 3: Sneak Attack Training
+Ability: Tier 3: Stat: Dexterity
+Ability: Tier 4: Execute
+Ability: Tier 4: Killer (Rank 3)
+Ability: Tier 4: Weakening Strikes
+Ability: Tier 4: Sneak Attack Training
+Ability: Tier 5: Assassinate
+Ability: Tier 5: Measure the Foe (Rank 3)
+Ability: Tier 5: Deadly Strikes
+Ability: Tier 5: Knife Specialization
+Ability: Tier 5: Light Armor Mastery (Rank 3)
+
+Tree: Stalwart Defender
+Type: Class
+Source: Fighter
+ClassLevels: 4
+Ability: Tier 0: Toughness
+Ability: Tier 0: Stalwart Defense
+Ability: Tier 1: Improved Stalwart Defense: Durable Defense (Rank 3)
+Ability: Tier 1: Stalwart Defensive Mastery (Rank 3)
+Ability: Tier 2: Improved Stalwart Defense: Resilient Defense (Rank 3)
+Ability: Tier 2: Stalwart Shield Mastery (Rank 3)
+Ability: Tier 2: Armor Expertise (Rank 3)
+Ability: Tier 3: Greater Stalwart Defense: Tenacious Defense (Rank 3)
+Ability: Tier 3: Shield Expertise (Rank 3)
+Ability: Tier 4: Greater Stalwart Defense: Hardy Defense (Rank 3)
+Ability: Tier 4: Reinforced Defense: Reinforced Armor (Rank 3)
+

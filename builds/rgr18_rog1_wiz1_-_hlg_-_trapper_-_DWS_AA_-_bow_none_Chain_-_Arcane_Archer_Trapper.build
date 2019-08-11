@@ -1,0 +1,194 @@
+[Overview]
+
+Name: Arcane Archer Trapper
+Race: Halfling
+Alignment: True Neutral
+MaxLevels: 20
+
+Class: Ranger
+Class: Rogue
+Class: Wizard
+
+Level: 1	Rogue
+Level: 2	Ranger
+Level: 3	Ranger
+Level: 4	Wizard
+Level: 5	Ranger
+Level: 6	Ranger
+Level: 7	Ranger
+Level: 8	Ranger
+Level: 9	Ranger
+Level: 10	Ranger
+Level: 11	Ranger
+Level: 12	Ranger
+Level: 13	Ranger
+Level: 14	Ranger
+Level: 15	Ranger
+Level: 16	Ranger
+Level: 17	Ranger
+Level: 18	Ranger
+Level: 19	Ranger
+Level: 20	Ranger
+
+
+[Stats]
+
+Preferred: Champion
+
+Adventurer: No
+Hero: No
+Legend: No
+;    Advn  Chmp  Hero  Lgnd  Tome
+;    ----  ----  ----  ----  ----
+STR:   1     2     2     2      
+DEX:  10    10    10    10      
+CON:   5     6     6     6      
+INT:  10    10    10    10      
+WIS:   2     4     4     4      
+CHA:                            
+;    ----  ----  ----  ----
+;     28    32    32    32   
+
+Levelup: 0	Dexterity
+Levelup: 4	Dexterity
+Levelup: 8	Dexterity
+Levelup: 12	Dexterity
+Levelup: 16	Dexterity
+Levelup: 20	Dexterity
+Levelup: 24	Dexterity
+Levelup: 28	Dexterity
+
+
+[Skills]
+
+;         1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  Tome
+;        ------------------------------------------------------------------------------------
+Balance:  4                                                                                 
+Bluff  :                                                                                    
+Concent:  4   1   3                       2   2   2   2   2   1   1   1   1   1   1   1     
+Diplo  :                                                                                    
+Disable:  4   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Haggle :                                                                                    
+Heal   :  4   3   1               2   3   1   1   1   1   1   1   1   1   1   1   1   1     
+Hide   :                                                                                    
+Intim  :                                                                                    
+Jump   :  4                                                                           1     
+Listen :                                                                                    
+Move Si:                                                                                    
+Open Lo:  4                                                   1   1   1   1   1   1         
+Perform:                                                                                    
+Repair :                                                                                    
+Search :  4   1   1       2   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Spellcr:  4   1   1   1   4   5   3   2   2   2   2   2   2   2   2   2   2   2   2   2     
+Spot   :  4   1   1   2   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1     
+Swim   :  4                                                                                 
+Tumble :  4                                                                                 
+UMD    :                                                                                    
+
+
+[Feats]
+
+Standard: Heroic 1	Point Blank Shot
+Standard: Heroic 3	Precision
+Standard: Heroic 6	Dodge
+Standard: Heroic 9	Mobility
+Standard: Heroic 12	Improved Critical: Ranged
+Standard: Heroic 15	Shot on the Run
+Standard: Heroic 18	Empower Healing Spell
+
+Class: Ranger 1	Favored Enemy: Undead
+Class: Ranger 5	Favored Enemy: Human
+Class: Ranger 10	Favored Enemy: Giant
+Class: Ranger 15	Favored Enemy: Evil Outsider
+
+Class: Wizard 1	Quicken Spell
+
+
+[Spells]
+
+Spell: Ranger 1	Ram's Might
+Spell: Ranger 1	Resist Energy
+Spell: Ranger 1	Jump
+Spell: Ranger 1	Tumble
+
+Spell: Ranger 2	Cure Light Wounds
+Spell: Ranger 2	Barkskin
+Spell: Ranger 2	Protection from Energy
+
+Spell: Ranger 3	Cure Moderate Wounds
+Spell: Ranger 3	Wild Instincts
+
+Spell: Ranger 4	Cure Serious Wounds
+Spell: Ranger 4	Freedom of Movement
+
+Spell: Wizard 1	Shield
+Spell: Wizard 1	Expeditious Retreat
+Spell: Wizard 1	Merfolk's Blessing
+
+
+[Enhancements]
+
+Tier5: Deepwood Stalker
+
+Tree: Halfling
+Type: Race
+ClassLevels: 20
+Ability: Tier 0: Halfling Luck
+Ability: Tier 0: Dexterity
+Ability: Tier 0: Halfling Luck II
+
+Tree: Deepwood Stalker
+Type: Class
+Source: Ranger
+ClassLevels: 18
+Ability: Tier 0: Far Shot
+Ability: Tier 0: Sneak Attack
+Ability: Tier 0: Called Shot: Sniper Shot
+Ability: Tier 0: Advanced Sneak Attack
+Ability: Tier 0: Mark of the Hunted
+Ability: Tier 1: Favored Defense (Rank 3)
+Ability: Tier 1: Increased Empathy (Rank 2)
+Ability: Tier 2: Survivalist
+Ability: Tier 2: Empathic Healing (Rank 1)
+Ability: Tier 2: Improved Weapon Finesse
+Ability: Tier 2: Action Boost: Skill Boost (Rank 3)
+Ability: Tier 3: Survivalist
+Ability: Tier 3: Stat: Dexterity
+Ability: Tier 4: Survivalist
+Ability: Tier 4: Killer (Rank 3)
+Ability: Tier 4: Merciful Shot
+Ability: Tier 4: Stat: Dexterity
+Ability: Tier 5: Extra Favored Enemy: Magical Beast
+Ability: Tier 5: Heavy Draw
+Ability: Tier 5: Strikes Like Lightning
+Ability: Tier 5: Head Shot
+Ability: Tier 5: Improved Archer's Focus
+
+Tree: Arcane Archer
+Type: Class
+Source: Ranger
+ClassLevels: 18
+Ability: Tier 0: Arcane Archer
+Ability: Tier 0: Morphic Arrows
+Ability: Tier 0: Metalline Arrows
+Ability: Tier 0: Aligned Arrows
+Ability: Tier 0: Shadow Arrows
+Ability: Tier 1: Conjure Arrows
+Ability: Tier 1: Energy of the Wild (Rank 2)
+Ability: Tier 1: Elemental Arrows: Corrosive Arrows
+Ability: Tier 1: Awareness (Rank 3)
+Ability: Tier 2: Force Arrows (Rank 3)
+Ability: Tier 2: Elemental Arrows: Elemental Damage
+Ability: Tier 3: Soul Magic
+Ability: Tier 3: Elemental Arrows: Elemental Damage
+Ability: Tier 3: Stat: Dexterity
+Ability: Tier 4: Elemental Arrows: Elemental Damage
+Ability: Tier 4: Stat: Dexterity
+
+Tree: Eldritch Knight (Wizard)
+Type: Class
+Source: Wizard
+ClassLevels: 1
+Ability: Tier 0: Eldritch Strike
+Ability: Tier 1: Improved Mage Armor (Rank 3)
+
